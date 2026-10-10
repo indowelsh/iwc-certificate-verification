@@ -13,7 +13,7 @@ const CERTIFICATES = {
     "certificateNo": "IWC-INT-2026-002",
     "name": "YASWANTH TEJA KOMIRISETTY",
     "college": "Qis College Of Engineering And Technology",
-    "domain": "JAVA DEVELOPER",
+    "domain": "PYTHON DEVELOPER",
     "startDate": "July 13, 2026",
     "endDate": "September 21, 2026",
     "status": "VALID",
